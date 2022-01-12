@@ -14,5 +14,6 @@
 <hr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinhasanidhya&show_icons=true&locale=en&layout=compact" alt="sinhasanidhya" /></p>
 
-<br>  
+<br> 
+<img src="https://www.ge.com/research/sites/default/files/styles/hero_banner/public/2018-11/landing-technology-domains-capabilities-hero.jpg?itok=gYYh7y_B"/>
 
