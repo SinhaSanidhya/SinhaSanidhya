@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm SanidhyaSinha</h1>
 <h3 align="center">A passionate frontend developer and a beatboxer from India and I study in 8th grade</h3>
 
