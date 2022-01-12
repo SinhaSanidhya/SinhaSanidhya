@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm SanidhyaSinha</h1>
 <h3 align="center">A passionate frontend developer and a beatboxer from India and I study in 8th grade</h3>
+<img src="https://www.ge.com/research/sites/default/files/styles/hero_banner/public/2018-11/landing-technology-domains-capabilities-hero.jpg?itok=gYYh7y_B"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhasanidhya&label=Profile%20views&color=0e75b6&style=flat" alt="sinhasanidhya" /> </p>
 
@@ -15,5 +16,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinhasanidhya&show_icons=true&locale=en&layout=compact" alt="sinhasanidhya" /></p>
 
 <br> 
-<img src="https://www.ge.com/research/sites/default/files/styles/hero_banner/public/2018-11/landing-technology-domains-capabilities-hero.jpg?itok=gYYh7y_B"/>
+
 
